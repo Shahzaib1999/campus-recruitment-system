@@ -1,1 +1,1 @@
-# campus-recruitment-system
+# Campus Recruitment System
