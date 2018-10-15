@@ -1,6 +1,6 @@
 ## Campus Recruitment System
 
-#Firebase Hosted URL https://bootcamp-994bf.firebaseapp.com/
+Firebase Hosted URL https://bootcamp-994bf.firebaseapp.com/
 
 #Admin User: admin@gmail.com pass: admin123
 
